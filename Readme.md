@@ -1,4 +1,4 @@
-# This tells us about the scraping of sites (thru view source code). Some websites, doesn't want to scrape their content. For eg, sirbnb/robots.txt - will list of pages allow, disallow for certain bots - googlebot, bingbot.. 
+This tells us about the scraping of sites (thru view source code). Some websites, doesn't want to scrape their content. For eg, sirbnb/robots.txt - will list of pages allow, disallow for certain bots - googlebot, bingbot.. 
 https://www.airbnb.com/robots.txt - lists ethical ways of scraping content. 
 Special site for developers: https://news.ycombinator.com/ 
 
